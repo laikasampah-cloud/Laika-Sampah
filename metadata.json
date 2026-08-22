@@ -1,0 +1,8 @@
+{
+  "name": "LAIKA SAMPAH",
+  "description": "Aplikasi Bank Sampah & Pengelolaan Limbah TPS 3R PT VALE IGP Pomalaa - Fitur Berbagi Data & Aplikasi Antar HP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
